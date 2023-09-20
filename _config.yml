@@ -92,14 +92,14 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping: # optional, default to 'pathname'
-    input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    repo: roadblockeddev/discussions
+    repo_id: R_kgDOKV-twQ
+    category: Comments
+    category_id: DIC_kwDOKV-twc4CZe5d
+    mapping: pathname
+    input_position: bottom
+    lang: en
+    reactions_enabled: 1
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
